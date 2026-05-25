@@ -1,1 +1,1 @@
-# projecy-jdm
+# project-jdm
